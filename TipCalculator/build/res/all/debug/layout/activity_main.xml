@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:ems="10"
+            android:id="@+id/editBillAmount"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/TipPercent"/>
+
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:ems="10"
+            android:id="@+id/editPercentAmount"
+            android:layout_alignRight="@+id/editBillAmount"
+            android:layout_below="@+id/editBillAmount"
+            android:layout_toRightOf="@+id/TipPercent"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Bill Amount:"
+            android:id="@+id/Amount"
+            android:layout_above="@+id/editPercentAmount"
+            android:layout_alignParentLeft="true"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Tip Percentage:"
+            android:id="@+id/TipPercent"
+            android:layout_alignBottom="@+id/editPercentAmount"
+            android:layout_alignLeft="@+id/Amount"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Calculate"
+            android:id="@+id/buttonCalculate"
+            android:layout_marginRight="11dp"
+            android:layout_below="@+id/editPercentAmount"
+            android:layout_alignRight="@+id/editPercentAmount"
+            android:onClick="calculate"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Total Tip:"
+            android:id="@+id/Tip"
+            android:layout_marginBottom="24dp"
+            android:layout_above="@+id/BillAmount"
+            android:layout_alignLeft="@+id/TipPercent"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Total Bill:"
+            android:id="@+id/BillAmount"
+            android:layout_alignParentBottom="true"
+            android:layout_alignLeft="@+id/Tip"
+            android:layout_marginBottom="15dp"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/tipTotal"
+            android:layout_alignBottom="@+id/Tip"
+            android:layout_alignRight="@+id/editPercentAmount"
+            android:layout_alignTop="@+id/Tip"
+            android:layout_toRightOf="@+id/TipPercent"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/billTotal"
+            android:layout_alignRight="@+id/buttonCalculate"
+            android:layout_below="@+id/Tip"
+            android:layout_alignLeft="@+id/tipTotal"/>
+
+</RelativeLayout>
