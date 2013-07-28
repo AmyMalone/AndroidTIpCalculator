@@ -9,11 +9,53 @@
   </component>
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <target>android-17</target>
+      </config>
     </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml">
+        <config>
+          <device>Nexus 4</device>
+          <theme>@android:style/Theme.Light.NoTitleBar</theme>
+        </config>
+      </layout>
+    </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="953a9f9c-3245-4256-84e5-16d2713dabbd" name="Default" comment="" />
+    <list default="true" id="953a9f9c-3245-4256-84e5-16d2713dabbd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/values-sw720dp-land/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/values-v11/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/values-v14/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/release/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/source/buildConfig/release/com/example/tipcalculator/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TipCalculator/build/source/r/release/com/example/tipcalculator/R.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java" afterPath="$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/source/r/debug/com/example/tipcalculator/R.java" afterPath="$PROJECT_DIR$/TipCalculator/build/source/r/debug/com/example/tipcalculator/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/TipCalculator.iml" afterPath="$PROJECT_DIR$/TipCalculator/TipCalculator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculatorProject.iml" afterPath="$PROJECT_DIR$/TipCalculatorProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build.gradle" afterPath="$PROJECT_DIR$/TipCalculator/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/menu/main.xml" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/menu/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values-sw720dp-land/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values-v11/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/TipCalculator/build/res/all/debug/values-v14/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TipCalculator.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,19 +121,21 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="210" selection-end="210" vertical-scroll-proportion="0.22245763" vertical-offset="0" max-vertical-offset="960">
-              <folding />
+            <state line="9" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.3638814" vertical-offset="0" max-vertical-offset="1050">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer">
+          <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="44" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1545">
+          <provider editor-type-id="text-editor">
+            <state line="8" column="34" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
@@ -105,7 +149,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -124,38 +168,44 @@
           <key>
             <ExternalProjectPojo>
               <option name="name" value="TipCalculatorProject" />
-              <option name="path" value="$PROJECT_DIR$/build.gradle" />
+              <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
                 <option name="name" value="TipCalculatorProject" />
-                <option name="path" value="$PROJECT_DIR$/build.gradle" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="TipCalculator" />
-                <option name="path" value="$PROJECT_DIR$/TipCalculator/build.gradle" />
+                <option name="path" value="$PROJECT_DIR$/TipCalculator" />
               </ExternalProjectPojo>
             </list>
           </value>
         </entry>
       </map>
     </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1374260774000" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/TipCalculator/build.gradle" />
         <option value="$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java" />
+        <option value="$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="154" />
-    <option name="y" value="22" />
-    <option name="width" value="932" />
-    <option name="height" value="620" />
+    <option name="x" value="404" />
+    <option name="y" value="47" />
+    <option name="width" value="1092" />
+    <option name="height" value="714" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -184,7 +234,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -327,6 +376,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,12 +391,13 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="233" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="04995b7c" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="MyAvd0" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -485,7 +536,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="154" y="22" width="932" height="620" extended-state="0" />
+    <frame x="404" y="47" width="1092" height="714" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -494,24 +545,24 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280543" sideWeight="0.6703125" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1923077" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1625239" sideWeight="0.67171717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32828283" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -579,7 +630,47 @@
     <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="31" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="960">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="44" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1545">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="44" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="960">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -596,7 +687,9 @@
     <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="435">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -615,20 +708,27 @@
         <state line="21" column="45" selection-start="702" selection-end="702" vertical-scroll-proportion="0.22827938" vertical-offset="106" max-vertical-offset="870" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TipCalculator/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="55" selection-start="136" selection-end="136" vertical-scroll-proportion="0.20215634" vertical-offset="0" max-vertical-offset="435" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
+      <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="44" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1545">
+      <provider editor-type-id="text-editor">
+        <state line="8" column="34" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TipCalculator/src/main/java/com/example/tipcalculator/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="210" selection-end="210" vertical-scroll-proportion="0.22245763" vertical-offset="0" max-vertical-offset="960">
-          <folding />
+        <state line="9" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.3638814" vertical-offset="0" max-vertical-offset="1050">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

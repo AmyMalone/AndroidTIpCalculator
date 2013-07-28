@@ -1,15 +1,15 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1374341752000 452 4599454b7ab5a5b5fe73879a074988d209c9d637 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$style.class
-1374260889000 359 6aadb2bdd4ba7e3cb31a10782e951933c9663e79 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/BuildConfig.class
-1374341752000 493 df97c4179d4a76a92a07697708167508d0b58ce0 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$string.class
-1374260889000 428 a45ebd066b765ec0f8f99b26dd5e931a562dfc54 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$drawable.class
+1374973744000 452 908f07f33996cefc895ad9af72c797a8f778020a /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$style.class
+1374462877000 359 6aadb2bdd4ba7e3cb31a10782e951933c9663e79 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/BuildConfig.class
+1374973744000 493 d545da880d2e92441c663aae267270c5bda5e54b /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$string.class
+1374462877000 428 2546e1f33a5f0e9ef46b04f9bfd6501ae351c1da /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$drawable.class
 1374260775000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/libs/android-support-v4.jar
-1374260889000 482 33c0bd28cc4b477e661ed73908128f66fd69e141 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$dimen.class
-1374341752000 747 bbe6bfbea9bcf1f7fcc83745353f2ab844c72004 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R.class
-1374341752000 424 af95d1a5d018d488fc17c376e45122d137d2f3c0 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$layout.class
-1374458287000 1958 f4bd0989b7a84275d21a1bb2e323c4c1eb3e9ce7 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/MainActivity.class
-1374360686000 722 d6446910b715c59b9b9a1e347dbb95607f2a22e1 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$id.class
-1374341752000 409 f173abc8c4c690d10761a1c0a2cdd2b9846ef5f7 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$menu.class
-1374260889000 361 8d5a64a782b6190a3fd321a3fdcd36251ae80a34 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$attr.class
+1374462877000 482 33c0bd28cc4b477e661ed73908128f66fd69e141 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$dimen.class
+1374973744000 747 6aa98737eaf694b7995ed76f0e185ac9d5bf4658 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R.class
+1374973744000 424 6edbc4a8c0d09deab7c5c7a0f86f4d989aa0768d /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$layout.class
+1374979825000 2218 503741a668c3e3d0070c92830d9ae9b759c4c397 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/MainActivity.class
+1374973837000 753 da169df267fd0859cc47baed411df58046e2761c /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$id.class
+1374973744000 409 0449d8108c4f633ce46481eeee008f17d48f3e72 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$menu.class
+1374462877000 361 8d5a64a782b6190a3fd321a3fdcd36251ae80a34 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/classes/debug/com/example/tipcalculator/R$attr.class

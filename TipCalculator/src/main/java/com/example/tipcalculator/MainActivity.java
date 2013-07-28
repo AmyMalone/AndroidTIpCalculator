@@ -8,6 +8,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.view.View;
 
+
+
 public class MainActivity extends Activity {
 
     EditText origBill;
@@ -44,11 +46,15 @@ public class MainActivity extends Activity {
         Double enteredBill = Double.valueOf(origBill.getText().toString());
         Double enteredPerc = Double.valueOf(origTipPerc.getText().toString());
 
-        Double tipCalc = enteredBill*enteredPerc;
+        Double tipCalc = enteredBill*(enteredPerc/100);
         Double totalCalc = tipCalc+enteredBill;
 
-        tipTot.setText(tipCalc.toString());
-        billTotal.setText(totalCalc.toString());
+        tipCalc = (double)Math.round(tipCalc * 100) / 100;
+        totalCalc = (double)Math.round(totalCalc * 100) / 100;
+
+
+        tipTot.setText("$ "+tipCalc.toString());
+        billTotal.setText("$ "+totalCalc.toString());
 
     }
 

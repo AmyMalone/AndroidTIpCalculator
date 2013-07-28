@@ -1,13 +1,13 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1374260889000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1374260889000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/menu/main.xml
-1374361160000 4046 af49d686ec75bd16f40cfbba970f1588f7937012 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/layout/activity_main.xml
-1374260889000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values-sw720dp-land/values.xml
-1374260889000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-xhdpi/ic_launcher.png
-1374260889000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1374260889000 791 a91ed674e473824c63eb18b9deba0ce53d2dace1 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values/values.xml
-1374260889000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1374260889000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values-v14/values.xml
-1374260889000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values-v11/values.xml
+1374462865000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1374462865000 367 54ecfbb66e37a2ae8b6801cf172f1efdf2fd377f /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/menu/main.xml
+1374979824000 4618 23feb8ec02b2f0c033fb53b4209dd8af9403fd61 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/layout/activity_main.xml
+1374462865000 270 5e3c4a38d9a78ee2b5c9fe14c20aa5956be80eec /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values-sw720dp-land/values.xml
+1374462865000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1374462865000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1374462865000 1186 392a647db13840c685dc31ba781f374ec78db206 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values/values.xml
+1374462865000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1374462865000 353 8ed38703ed39fcefa2ab8d356adde229bc0ac48d /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values-v14/values.xml
+1374462865000 339 adb422ed80e50196fe8b0ebb3a64289ce0f7f238 /Users/ameliamalone/AndroidStudioProjects/TipCalculatorProject/TipCalculator/build/res/all/debug/values-v11/values.xml
